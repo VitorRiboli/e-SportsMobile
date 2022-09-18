@@ -19,7 +19,7 @@
 - `Publicação de Anúncios`: O usúario poderá publicar anúncios de quais jogos gostaria de encontrar um DUO;
 - `Consulta de Anúncios`: O usúario poderá consultar anúncios publicados através de uma busca no game desejado.
 
-<img src="./assets/redme/inicial.PNG" alt=""/>
+<img src="./assets/redme/inicial.PNG" styles="width: 200px" alt=""/>
 <img src="./assets/redme/listAds.PNG" alt=""/>
 <img src="./assets/redme/addUser.PNG" alt=""/>
 
